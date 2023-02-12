@@ -4,12 +4,12 @@ verify_ssl = true
 name = "pypi" 
   
  [packages] 
-matplotlib=="*" 
-pandas=="*" 
-scikit_learn=="*"
-streamlit=="*"
-streamlit_lottie=="*"
-streamlit_option_menu=="*"
+matplotlib= "*" 
+pandas= "*" 
+scikit_learn= "*"
+streamlit= "*"
+streamlit_lottie= "*"
+streamlit_option_menu= "*"
   
  [dev-packages] 
   
