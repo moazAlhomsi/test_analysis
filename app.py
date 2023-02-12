@@ -31,7 +31,7 @@ st.markdown("""
 
 st.markdown("""<h1 style="font-family: 'Times New Roman', Times, serif; font-size: 40px; color: #ffccff; font-weight: bold;">Breast Cancer Prediction</h1>""", unsafe_allow_html=True)
 
-lotfile = lottie("lottiefiles/cancer.json")
+lotfile = lottie("cancer.json")
 
     
 
