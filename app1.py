@@ -8,6 +8,7 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.metrics import confusion_matrix, accuracy_score, classification_report, RocCurveDisplay, PrecisionRecallDisplay
 import matplotlib.pyplot as plt
 plt.rcParams['figure.figsize'] = (12, 8)
+st.set_option('deprecation.showPyplotGlobalUse', False)
 
 breast_cancer = datasets.load_breast_cancer()
 x = pd.DataFrame(breast_cancer.data, columns=breast_cancer.feature_names)
