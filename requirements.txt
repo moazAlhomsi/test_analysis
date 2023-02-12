@@ -1,0 +1,6 @@
+streamlit=="*"
+scikit_learn=="*"
+matplotlib=="*"
+streamlit_option_menu=="*"
+streamlit_lottie=="*"
+pandas=="*"
