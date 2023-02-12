@@ -1,0 +1,17 @@
+[[source]]
+name="pypi"
+url="https://pypi.org/simple"
+verify_ssl=true
+
+[dev-packages]
+
+[packages]
+matplotlib="*"
+pandas="*"
+scikit_learn="*"
+streamlit="*"
+streamlit_lottie="*"
+streamlit_option_menu="*"
+
+[requires]
+python_version="3.6"
