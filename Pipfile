@@ -4,12 +4,12 @@
  name = "pypi" 
   
  [packages] 
- matplotlib=="3.5.2" 
- pandas=="1.5.2" 
- scikit_learn=="1.2.1"
- streamlit=="1.18.1"
- streamlit_lottie=="0.0.3"
- streamlit_option_menu=="0.3.2"
+ matplotlib=="*" 
+ pandas=="*" 
+ scikit_learn=="*"
+ streamlit=="*"
+ streamlit_lottie=="*"
+ streamlit_option_menu=="*"
   
  [dev-packages] 
   
